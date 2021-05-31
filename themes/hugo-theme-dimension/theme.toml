@@ -1,0 +1,14 @@
+name = "Dimension"
+license = "CC 3.0"
+licenselink = "https://creativecommons.org/licenses/by/3.0/"
+description = "A port of HTML5UP's dimension theme, optimized for markdown based CMS."
+homepage = "https://github.com/your-identity/hugo-theme-dimension/"
+tags = ["blog", "clean", "customizable", "dark", "highlighting", "minimal", "personal", "google analytics", "responsive", "simple"]
+features = ['blog', 'syntax highlighting', 'multilingual', 'contact form'] min_version = 0.54
+
+[author]
+  name = *d-asnaghi* "modificado por" *D.O.S-2021*
+  
+[original]
+    author = "HTML5UP"
+    homepage = "https://html5up.net"

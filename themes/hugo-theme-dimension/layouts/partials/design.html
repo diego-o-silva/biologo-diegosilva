@@ -1,0 +1,19 @@
+<!-- Design -->
+<ul>
+{{ range $.Site.Home.AllTranslations }}
+<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+{{ end }}
+</ul>
+{{ if .IsTranslated }}
+<h4>{{ i18n "translations" }}</h4>
+<ul>
+    {{ range .Translations }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Lang }}: {{ .Title }}{{ if .IsPage }} ({{ i18n "wordCount" . }}){{ end }}</a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
+<footer id="footer">
+    <p class="copyright">&copy; Design: <a href="https://github.com/d-naghi">Original theme by d-asnaghi, modified by Diego O. Silva</a> and <a href="https://html5up.net">HTML5 UP</a>.</p>
+</footer>
