@@ -2,8 +2,9 @@
 title: "Áreas de Concentração"
 date: 2021-05-22T21:08:44-03:00
 draft: true
----
-**Áreas de Concentração e Linhas de Pesquisa**
+---  
+
+**Linhas de Pesquisa**
 ![](Summary_eco_400.png)  
 ![](Summary_filogeo_400.png)  
 ![](Summary_gene_400.png)  
