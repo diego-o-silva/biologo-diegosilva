@@ -1,5 +1,5 @@
 ---
 title: Diego O. Silva
 description: Biólogo CRBio3 - Msc Biologia Animal UFRGS
-icon: "flag"
+icon: "gem.svg"
 ---
