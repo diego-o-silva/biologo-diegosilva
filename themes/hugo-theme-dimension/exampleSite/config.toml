@@ -1,6 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "pt-BR"
 title = "Biólogo Diego O. Silva"
-theme = "dimension"  
------
+theme = "dimension" 
 
